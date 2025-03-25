@@ -4,7 +4,10 @@
 
 ## Live Demo
 
-Project URL: https://paban-blip.github.io/DATA-piker-UI/
+DEMO: https://paban-blip.github.io/DATA-piker-UI/
+
+project URL : https://roadmap.sh/projects/datepicker-ui
+
 
 ## Features
 
