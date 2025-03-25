@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-project URL [https://paban-blip.github.io/DATA-piker-UI/](https://paban-blip.github.io/DATA-piker-UI/)
+project URL https://paban-blip.github.io/DATA-piker-UI/
 
 ## Features
 
